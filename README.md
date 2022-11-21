@@ -55,7 +55,8 @@ Back end:
    https://fontawesome.com/icons
    Javascript
    https://jquery.com/
-   
+   PHASE 1: làm theo mô hình PHP MVC
+   PHASE 2: từ web xây dựng xong update thanh laravel framework
    
    
    

@@ -48,5 +48,16 @@ Back end:
               Khi click thanh toán từ page Confirm thì show ra mã đơn hàng đã tạo
  --------------> Page list order: show ra danh sách các order của 1 user
  --------------> Page order detail: Khi click 1 item ở page list order thì show ra các order item của order đó 
-    
+   
+   THU VIEN CSS:
+   https://getbootstrap.com/
+   ICON
+   https://fontawesome.com/icons
+   Javascript
+   https://jquery.com/
+   
+   
+   
+   
+   
  
